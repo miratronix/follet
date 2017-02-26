@@ -1,0 +1,25 @@
+{
+  "name": "follet",
+  "version": "0.0.1",
+  "description": "JSDoc and Swagger markdown generator",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:miratronix/follet.git"
+  },
+  "dependencies": {
+    "dmd-bitbucket": "^0.1.10",
+    "jsdoc-to-markdown": "^2.0.1",
+    "lodash": "^4.16.6",
+    "swagger-md": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.14.0"
+  },
+  "author": "miratronix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miratronix/follet/issues"
+  },
+  "homepage": "https://github.com/miratronix/follet"
+}
