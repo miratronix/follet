@@ -16,7 +16,7 @@ follet.swagger.generateMd(require('spec.json'), 'swagger.md');
 ```
 
 ## Markdown Flavours
-By default, follet generates github flavoured markdown. Th change to bitbucket, simply do the following:
+By default, follet generates github flavoured markdown. To change to bitbucket, simply do the following:
 ```javascript
 const follet = require('follet').setMdFlavour('bitbucket');
 ```
