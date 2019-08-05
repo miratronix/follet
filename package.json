@@ -1,6 +1,6 @@
 {
   "name": "follet",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "JSDoc and Swagger markdown generator",
   "main": "lib/index.js",
   "repository": {
@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "dmd-bitbucket": "^0.1.10",
-    "jsdoc-to-markdown": "^4.0.1",
-    "lodash": "^4.17.11",
+    "jsdoc-to-markdown": "^5.0.0",
+    "lodash": "^4.17.15",
     "swagger-md": "^3.0.0"
   },
   "devDependencies": {
