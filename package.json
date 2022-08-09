@@ -1,6 +1,6 @@
 {
   "name": "follet",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "JSDoc and Swagger markdown generator",
   "main": "lib/index.js",
   "repository": {
@@ -9,12 +9,12 @@
   },
   "dependencies": {
     "dmd-bitbucket": "^0.1.10",
-    "jsdoc-to-markdown": "^5.0.0",
+    "jsdoc-to-markdown": "^7.1.1",
     "lodash": "^4.17.15",
-    "swagger-md": "^3.0.0"
+    "swagger-md": "^1.7.1"
   },
   "devDependencies": {
-    "eslint": "^5.6.0"
+    "eslint": "^8.21.0"
   },
   "author": "miratronix",
   "license": "MIT",
